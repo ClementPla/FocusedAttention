@@ -1,0 +1,2 @@
+from .oct_dataset import get_kermany_dataset
+from .fundus_dataset import get_idrid_dataset
